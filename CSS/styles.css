@@ -29,13 +29,15 @@ div {
 img {
   display: flex;
   padding: 20px;
+  border-style: dotted;
+  border-color: pink, PeachPuff;
   margin: 0 auto;
-  border-radius: 55px;
-  opacity: 0.5;
+  border-radius: 15px;
+  opacity: 0.9;
   filter: grayscale(100%);
 }
 li#two {
-  padding: 40px; 
+  padding: 40px;
 }
 li#lower {
   margin-left: 7%;
